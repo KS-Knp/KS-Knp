@@ -3,16 +3,12 @@ A design engineer with more than 3 years of experience. I have knowledge of in p
 In general, I've worked from design to production, designing CANOPY, designs solar mounting.
 
 ### Key points
-*   
+*   เดี๋ยวมาใส่ครับ555555555
 
 ## 🛠 Technology Stack
-*   
+*   เดี๋ยวมาใส่ครับ555555555
 
 ### My opensource projects
 
-*   
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
+*   เดี๋ยวมาใส่ครับ555555555
+
