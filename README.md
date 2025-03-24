@@ -8,7 +8,6 @@ I am passionate about enhancing design efficiency through automation and CAD Mac
 Additionally, I have experience with Geometric Dimensioning and Tolerancing (GD&T) to ensure precise manufacturing requirements, as well as Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) for design validation and performance optimization.
 
 Professional Experience  
-
 Product Design Engineer  
   - Designing and drafting parts for manufacturing, including cutting, bending, welding, painting, and assembly.  
   - Developing CAD automation solutions to reduce repetitive design tasks.  
