@@ -27,9 +27,8 @@ Key Skills & Expertise
 ✔ Sheet Metal & Tube Fabrication  
 ✔ 3D Printing & Prototyping  
 ✔ CAD Macros & Design Automation  
-✔ Manufacturing Process Optimization  
 ✔ Technical Drawings & Engineering Documentation  
 ✔ Geometric Dimensioning & Tolerancing (GD&T)  
 ✔ Finite Element Analysis (FEA)  
 ✔ Computational Fluid Dynamics (CFD)  
-✔ Project Management & Collaboration
+
